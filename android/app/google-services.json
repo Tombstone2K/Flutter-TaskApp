@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715746279005",
+    "project_id": "taskysignin-bbf87",
+    "storage_bucket": "taskysignin-bbf87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715746279005:android:b178e214170407a0aa57b4",
+        "android_client_info": {
+          "package_name": "com.raj.task.taskmgmt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZqoxgt_uVELC-cJ25aa_bZVaQeRAoDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
